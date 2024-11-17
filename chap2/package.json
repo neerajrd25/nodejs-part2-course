@@ -1,0 +1,22 @@
+{
+  "name": "npm_excercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node index"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "neeraj vishwakarma",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "tiny-timer": "^1.6.0"
+  }
+}
